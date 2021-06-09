@@ -22,3 +22,17 @@ Mod Loader for Going Medieval
 
 1. C# assembly loading at runtime.
 2. Custom asset loading through AssetBundles.
+
+## Supported Languages
+*The current system can only run off languages that are in Going Medieval by default. Here is a list of allowed languages*
+* English (United Kingdom)
+* Chinese (Simplified)
+* French
+* German
+* Spanish
+* Russian
+* Japanese
+* Portuguese (Brazil)
+* Korean
+* Polish
+* Turkish
